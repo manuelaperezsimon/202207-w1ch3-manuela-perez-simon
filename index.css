@@ -7,3 +7,12 @@ h1 {
   font-size: large;
 }
 
+@media (min-width: 1000px) {
+  h1 {
+    color: darkorange;
+    font-size: xx-large;
+  }
+}
+
+
+
